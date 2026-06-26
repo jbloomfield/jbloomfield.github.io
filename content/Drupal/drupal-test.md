@@ -1,3 +1,8 @@
+---
+title: Drupal test
+---
+
+
 A test page
 
 ```php
