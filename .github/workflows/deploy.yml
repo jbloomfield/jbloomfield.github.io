@@ -4,7 +4,10 @@ on:
   push:
     branches:
       - v5
- 
+
+env:
+  THEME_NAME: things
+
 permissions:
   contents: read
   pages: write
@@ -15,6 +18,8 @@ concurrency:
   cancel-in-progress: false
  
 jobs:
+  - name: Fetch Quartz Theme
+    run: curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh | bash -s -- things
   build:
     runs-on: ubuntu-latest
     steps:
