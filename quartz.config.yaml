@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: jbloomfield.github.io/quartz
+  baseUrl: jbloomfield.github.io
   ignorePatterns:
     - private
     - templates
