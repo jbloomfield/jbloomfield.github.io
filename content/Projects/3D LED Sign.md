@@ -30,7 +30,7 @@ I sliced the model in [Bambu Studio](https://bambulab.com/en-gb/download/studio)
 
 ## WLED Set up
 
-As I already use [Home Assistant](https://www.home-assistant.io/) for various smart home integrations, I decided to use [WLED](https://kno.wled.ge/) installed onto a Wemos D1 Mini. I probably should have gone with a [ESP32](https://en.wikipedia.org/wiki/ESP32) mini of some kind as I later realised that the [ESP8266](https://en.wikipedia.org/wiki/ESP8266) is gradually being phased out, although [WLED](https://kno.wled.ge/) still currently supports them.
+As I already use [Home Assistant](https://www.home-assistant.io/) for various smart home integrations, I decided to use [WLED](https://kno.wled.ge/) installed onto a Wemos D1 Mini. I probably should have gone with an [ESP32](https://en.wikipedia.org/wiki/ESP32) mini of some kind as I later realised that the [ESP8266](https://en.wikipedia.org/wiki/ESP8266) is gradually being phased out, although [WLED](https://kno.wled.ge/) still currently supports them.
 
 ![[Screenshot 2026-06-27 at 16.17.35.png]]
 
