@@ -36,7 +36,7 @@ As I already use [Home Assistant](https://www.home-assistant.io/) for various sm
 
 I chose WLED because it's free, works brilliantly with Home Assistant, and lets you control colours, brightness and animations without writing any code.
 
-So, I installed the integration into Home Assistant, plugged my D1 Mini into my Mac using its USB Micro-B then went over to the WLED Web Installer page selected "Install" and chose my USB serial device in the pop-up window.
+So, I installed the integration into Home Assistant, plugged my D1 Mini into my Mac using its USB Micro-B then went over to the [WLED Web Installer](https://install.wled.me/) page selected "Install" and chose my USB serial device in the pop-up window.
 
 Once installed, you will be asked to configure your WiFi settings.
 
