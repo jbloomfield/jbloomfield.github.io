@@ -8,5 +8,5 @@ title: Welcome to my digital garden
 
 🖨️ Recently, I purchased a [Bambu Labs](https://uk.store.bambulab.com/) P2S 3D printer and have been down that massive [rabbit-hole](https://dictionary.cambridge.org/dictionary/english/rabbit-hole). I will be adding some of my projects here soon too.
 
-Over the last year I have also been on a bit of a fitness journey. I had reached 54 years old and did not like what I become and also felt that it wasn't a great example to my son. I will document this journey here soon too.
+🏋🏼‍♀️ Over the last year I have also been on a bit of a fitness journey. I had reached 54 years old and did not like what I become and also felt that it wasn't a great example to my son. I will document this journey here soon too.
 
