@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics: { 
     provider: 'umami', 
-    host: 'https://johnbloomfield.dev', 
+    host: 'https://cloud.umami.is', 
     websiteId: 'a6f3fbca-fc98-45d8-8c91-6c7bda2fcba8'
   }
   locale: en-US
