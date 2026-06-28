@@ -1,3 +1,13 @@
+---
+title: Homelab
+slug: Projects/homelab
+draft: true
+author: John Bloomfield
+tags:
+ - Homelab
+ - Server
+---
+
 Since moving into this house in 2018, I have been tinkering with smart home devices, adding a homelab server to host TV show, movies, photos etc.
 
 ## Services
