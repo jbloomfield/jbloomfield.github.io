@@ -4,8 +4,11 @@ configuration:
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
-  analytics:
-    provider: plausible
+  analytics: { 
+    provider: 'umami', 
+    host: 'https://johnbloomfield.dev', 
+    websiteId: 'a6f3fbca-fc98-45d8-8c91-6c7bda2fcba8'
+  }
   locale: en-US
   baseUrl: jbloomfield.github.io
   ignorePatterns:
