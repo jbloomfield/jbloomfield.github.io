@@ -1,13 +1,3 @@
----
-title: Homelab
-slug: Projects/homelab
-draft: false
-author: John Bloomfield
-tags:
- - Homelab
- - Server
----
-
 Since moving into our house in 2018, I have been tinkering with smart home devices, adding a homelab server to host TV show, movies, photos etc.
 
 ## Unraid Docker Containers
