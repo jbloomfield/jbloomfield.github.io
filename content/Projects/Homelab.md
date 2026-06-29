@@ -1,22 +1,38 @@
 ---
 title: Homelab
 slug: Projects/homelab
-draft: true
+draft: false
 author: John Bloomfield
 tags:
  - Homelab
  - Server
 ---
 
-Since moving into this house in 2018, I have been tinkering with smart home devices, adding a homelab server to host TV show, movies, photos etc.
+Since moving into our house in 2018, I have been tinkering with smart home devices, adding a homelab server to host TV show, movies, photos etc.
 
-## Services
+## Unraid Docker Containers
+I have various media containers set up on Unraid, I will probably do a separate post about these at some point.
 
-
+- [Plex](https://watch.plex.tv/)
+- [Radarr](https://radarr.video/)
+- [Seerr](https://seerr.dev/)
+- [Sonarr](https://sonarr.tv/)
+- [SABnzbd](https://sabnzbd.org/)
+- [Nginx Proxy Manager](https://nginxproxymanager.com/)
 
 ## Main server
 
+My main homelab server is a bit of a hybrid of left over PC parts that I had accumulated over the years, so nothing too fancy but enough to run Unraid comfortably.
 
+Specs:
+- MSI X470 Gaming Plus Motherboard
+- AMD Ryzen 7 2700X 8-Core @ 3700MHz
+- 32GB DDR4 Ram
+- Storage 10TB
+	- Cache 512GB SanDisk SSD
+	- Western Digital 6TB (Parity drive)
+	- Western Digital 6TB
+	- Western Digital 4TB
 
 
 ## NAS
@@ -29,7 +45,11 @@ After numerous videos and research, I settled on TrueNAS, which was relatively e
 
 ### NAS Apps
 
-
+I have the following apps set up on TrueNAS:
+- Immich
+- n8n
+- Nextcloud
+- Uptime Kuma
 
 ## Networking & Cameras
 
